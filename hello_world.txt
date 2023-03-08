@@ -1,0 +1,2 @@
+I'm just trying to learn the ropes for Git.
+It doesn't seem as daunting as I thought it would be.
